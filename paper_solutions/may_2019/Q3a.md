@@ -61,4 +61,4 @@ a {
 </body>
 </html> 
 ```
-![Output](/images/Q3a_ouput.jpg)
+![Output](/Q3a_output.JPG)
