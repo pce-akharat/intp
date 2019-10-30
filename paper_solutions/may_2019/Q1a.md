@@ -6,7 +6,7 @@ In the 3-tier architecture, an application is usually split into three separate 
 - Tier 2 (Business Rules): Consists of the business logic. It represents the code that the user calls upon through the presentation layer to retrieve the data from the data layer.
 - Tier 3 (Data): Contains the data access logic needed for the application.
 
-Diagram
+Diagram  
 ![Diagram](images/3_tier_architecture.png)
 
 #### Advantages and Disadvantages [2M]
