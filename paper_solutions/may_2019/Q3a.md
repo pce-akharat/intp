@@ -63,4 +63,4 @@ a {
 ```
 
 ### output
-![Output](Q3a_output.JPG)
+![Output](images/Q3a_output.JPG)
