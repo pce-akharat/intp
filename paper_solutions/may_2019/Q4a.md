@@ -48,7 +48,7 @@ Format it into the tabular manner using XSLT. [10 M]
 ```
 
 ### output
-![Output](Q4a_output.JPG)
+![Output](images/Q4a_output.JPG)
 
 ***
 Use: [XSLT Test Tool](https://xslttest.appspot.com/)
