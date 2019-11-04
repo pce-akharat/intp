@@ -86,3 +86,5 @@ function validEmail(e) {
 </body>
 </html> 
 ```
+### output
+![Output](images/Q5a_output.JPG)
